@@ -85,6 +85,9 @@ function App() {
           result && <p className="result">{result}</p>
         )}
       </div>
+      <footer className="footer">
+        <p>Implemented by Jacob Ulloa</p>
+      </footer>
     </div>
   );
 }
